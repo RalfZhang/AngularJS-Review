@@ -47,6 +47,7 @@ helloModule.controller('helloNgCtrl', ['$scope', function(#scope){
     };
 }]);
 `
+
 - 推荐用总模块作为入口，挂上各个模块
 
 `
