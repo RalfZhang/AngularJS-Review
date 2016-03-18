@@ -299,8 +299,6 @@ template: '<div>hello!!<div ng-transclude></div></div>'
 - & 传递父scope
 
 ## AngularJS 内置指令（指令5）
-
-
 ##实例解析 Explander（指令6）
 ##实例解析 Accordion（指令6）
 ##指令的源性原理：compile 和 link
