@@ -235,7 +235,7 @@ myModule.directive('hello', function($templateCache){
 ```
 
 
-##解析指令hello：replace 和 transclude
+##解析指令 hello：replace 和 transclude
 - replace 定义标签后元素内嵌套的都将被替换
 ```html
 <hello><div>不显示</div></hello>
@@ -303,6 +303,7 @@ template: '<div>hello!!<div ng-transclude></div></div>'
 ##实例解析 Accordion（指令6）
 ##指令的源性原理：compile 和 link
 ##总结：ERP 类型的系统必备 UI 组件
+
 重点
 Form DatePicker FileUpload Tree DataGrid
 
